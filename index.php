@@ -21,7 +21,7 @@ $config = Config::getConfig();
   <meta property="og:site_name" content="Guilherme Devólio">
   <meta property="og:description" content="Guilherme Devólio">
   <meta property="og:url" content="https://guilhermedevolio.tech/">
-  <meta property="og:image" content="https://escolauzenir.com/assets/img/profile.jpg">
+  <meta property="og:image" content="https://guilhermedevolio.tech/assets/img/profile.ico">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-DLNC599ZQW"></script>
